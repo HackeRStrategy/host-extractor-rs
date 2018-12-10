@@ -1,0 +1,69 @@
+#Domingo 09/12/2018
+#by: real strategy / rwam
+
+PASO 1:
+
+chmod +x real-host.sh
+
+bash real-host.sh
+
+PASO 2:
+
+opcion 1: Buscador de host http/ssl
+
+host: Aqui es donde va el link , url del sitio web a extraer los dominios
+
+ejemplo
+
+host: bitel.pe
+
+recomendacion: preferible poner sin el http, https, www
+
+opcion 2: Mostrar status
+
+Mostrando status de hosts: Aqui se mostrara todos los estatus de los los host que 
+se encuentren en la opcion 3 o paso 3 leer
+
+recomendacion: leer el paso 3
+
+PASO 3:
+
+Opcion 3: Guardar hosts
+
+1) Pegar los hosts para poder sacarle los estatus
+2) Recuerde CTRL + C para salir
+3) HOST:
+
+1) Copiar las url que sacaste de la opcion en paso 2 o tu lista de host de tu 
+compañia 
+
+2) ctrl + c es para guardar los host pegados y luego volver a iniciar el script 
+real-host.sh y darle en la opcion 2 mostrar status leer paso 2
+
+3) host: aqui para abajo se pegan los host encontrados o url 
+
+DATOS:
+
+CANAL TELEGRAM:
+
+https://t.me/RealHackRWAM
+
+GRUPO TELEGRAM:
+
+https://t.me/RealStrategyRS
+
+CANAL YOUTUBE:
+
+https://youtube.com/RealHackRWAM
+
+GRUPO FACEBOOK:
+
+https://m.facebook.com/groups/142565756559228
+
+CANAL FACEBOOK
+
+https://m.facebook.com/RealHackRWAM
+
+
+
+PRESIONA UNA ENTER PARA CONTINUAR...
