@@ -5,6 +5,14 @@ Script para extraer todos los host http y ssl de paginas web
 
 PASO 1:
 
+pkg install wget
+
+pkg install curl
+
+pkg install git
+
+git clone https://github.com/HackeRStrategy/host-extractor-rs.git
+
 chmod +x real-host.sh
 
 bash real-host.sh
